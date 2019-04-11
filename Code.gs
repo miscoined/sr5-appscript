@@ -77,5 +77,5 @@ function GET(name, values) {
     val = i[1];
     return true;
   });
-  return augVal;
+  return val;
 }
